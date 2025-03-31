@@ -7,6 +7,7 @@ import DepartmentMenu from '../components/DepartmentMenu'
 const Home = () => {
   return (
     <div>
+     
       <Header />
       <DepartmentMenu />
       <TopProfessors />
